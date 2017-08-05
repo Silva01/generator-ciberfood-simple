@@ -1,0 +1,46 @@
+body {
+	background-color: #228B22;
+}
+
+.sessao {
+	height: 70vh;
+	background-color: #228B22;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3rem;	
+}
+
+.sessao h1 {
+	padding-top: 10rem;
+	margin-left: 18rem;
+	color : #FFD700;
+}
+
+.btn {
+	width: 15rem;
+	height: 4rem;
+	border: 1px solid #FFD700;
+	border-radius: 0.354rem;
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: #FF4500;
+	color: #00FFFF;
+}
+
+.btn:hover {
+	background-color: #4876FF;
+	color: #F0FFFF;
+}
+
+.btn-ciberfood-primary {
+	margin-left: 40%;	
+}
+
+.rodape {
+	font-size: 2rem;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	color: #FFD700;
+}
+
+.rodape h5 {
+	margin-left: 26rem;
+}

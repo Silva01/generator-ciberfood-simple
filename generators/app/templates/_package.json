@@ -1,0 +1,26 @@
+{
+  "name": "<% titulo %>",
+  "version": "<% versao %>",
+  "description": "Template para projetos simples",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silva01/generator-ciberfood-simple.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Daniel Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silva01/generator-ciberfood-simple/issues"
+  },
+  "homepage": "https://github.com/Silva01/generator-ciberfood-simple#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
